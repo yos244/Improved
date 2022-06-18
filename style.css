@@ -1,0 +1,38 @@
+body {
+  background-image: url('https://swall.teahub.io/photos/small/282-2820540_background-image-for-html-page.jpg');
+}
+.title {text-align: center;
+color:white; 
+}
+h2 {text-align: center;
+color:white; 
+
+}
+  .descrition {text-align: center;
+color:white; }
+body {text-align: center;
+color:white; 
+}
+#survey-form {
+ background-image: url('https://cdn.wallpapersafari.com/22/32/RWg5f1.png');
+  margin-right: 25rem;
+  margin-left: 25rem;
+  text-align: left;
+}
+
+#form-elm {
+  margin-right: 14.25rem:
+  color:white;
+}
+
+#name {width: 40%;}
+#number {width: 40%;}
+#email {width: 40%;}
+#list {width: 30%}
+
+#submit {width: 30%;
+border-radius: 50px;
+margin-left: 15rem;
+padding: 0.45rem;
+background-color: #B8860B}
+.form-group ()
